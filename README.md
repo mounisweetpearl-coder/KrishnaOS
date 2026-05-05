@@ -18,7 +18,7 @@
 
 Since this is a proprietary build, the source code is currently **Closed Source**. To run KrishnaOS on your Windows machine:
 
-1.  Go to the **[Releases](link-to-your-github-releases)** section of this repository.
+1.  Go to the **[Releases](https://github.com)** section of this repository.
 2.  Download the `KrishnaOS.exe` file.
 3.  Open your terminal or command prompt.
 4.  Run the file: `.\KrishnaOS.exe`
