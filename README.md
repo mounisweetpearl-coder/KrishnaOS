@@ -23,7 +23,7 @@ Since this is a proprietary build, the source code is currently **Closed Source*
 3.  Open your terminal or command prompt.
 4.  Run the file: `.\KrishnaOS.exe`
 
-*Note: Default system PIN is required for access.*
+*Note: Default system PIN is required for access which is 130513.*
 
 ---
 
@@ -43,6 +43,6 @@ Since this is a proprietary build, the source code is currently **Closed Source*
 ## 📜 Legal & Licensing
 
 **Copyright © 2026 Krishna. All Rights Reserved.**
-Also the password is : 130513 and for every other place the OS asks the code for.
+
 
 This software and its underlying logic are the sole property of the developer. No part of this application may be reproduced, modified, or distributed without express written permission. Unauthorized attempts to bypass the security gate or reverse-engineer the binary are strictly prohibited.
